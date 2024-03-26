@@ -1,0 +1,6 @@
+# Chronic Pain Exploratory Museum
+A tool for people who experience chronic pain to be able to discover, create, and save art that they feel resonates with their pain. The purpose of developing a VR environment for this task is to allow users to fully immerse themselves in the art and focus solely on their pain and its connection to the art without the outside world there to distract them. Eventually, this environment will be compared to full in-person and partially in-person alternatives to study how immersion affects pain relief in Art Therapy. 
+
+When the user enters the environment, they should be shown different art styles (starting very broad ex. an abstract piece, an impressionist piece, a realist piece, ...) and be able to "grade" the artworks on what aspects of the artworks they feel they resonate with. Then the software will suggest other paintings that they think the user would "grade" highly based on their past decisions.
+
+The main goal of this project is for the user to be able to create a curation of artworks that they feel represent their pain. This curation can then be shown to family members and doctors so they can hopefully gain a better understanding of the pain the user experiences.
