@@ -5381,7 +5381,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 1154
+  m_VersionIndex: 1157
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -5501,4 +5501,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56dcc2f8b0acb4ea4889fb41725c9e44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraTransform: {fileID: 0}
+  mainCameraTransform: {fileID: 0}
